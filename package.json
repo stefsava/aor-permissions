@@ -55,7 +55,7 @@
     "recompose": "~0.23.4"
   },
   "peerDependencies": {
-    "admin-on-rest": "~0.9.1",
+    "admin-on-rest": "~1.0.2",
     "material-ui": "~0.17.4"
   }
 }
